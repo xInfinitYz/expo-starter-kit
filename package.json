@@ -73,7 +73,7 @@
   "name": "expo-starter-kit",
   "version": "1.0.0",
   "private": false,
-  "description": "An opinionated Expo starter with expo-router, nativewind, zustand, expo-image, @shopify/flash-list, and OneSignal.",
+  "description": "An opinionated Expo starter with expo-router, nativewind, zustand, expo-image, @shopify/flash-list and OneSignal.",
   "license": "MIT",
   "author": "Zoltan Fodor - @ritmillio"
 }
